@@ -1,0 +1,64 @@
+.myblog{
+    font-style: italic;
+    text-align: center;
+}
+.uknown{
+    background-color: black;
+    color: aliceblue;
+}
+.welcome{
+    text-align: center;
+}
+.title{
+    font-style: italic;
+}
+.april{
+    color: gray;
+}
+.mauris{
+    font-style: italic;
+}
+.readmore{
+    font-style: italic;
+    font-size: x-large;
+    background-color: white;
+    color: black;
+}
+.comments{
+display: flex;
+justify-content: space-around;
+
+}
+.zero{
+display: flex;
+justify-content: space-around;
+background-color: white;
+color: black;
+}
+.blogentry{
+    font-style: italic;
+}
+.readmore2{
+    background-color: white;
+    color: black;
+    font-style: italic;
+    font-size: x-large;
+}
+.comments2{
+display: flex;
+justify-content: space-around
+}
+.zero2{
+display: flex;
+justify-content: space-around    
+}
+.avatar1{
+float: right;
+}
+.myname{
+    font-style: italic;
+    
+}
+
+
+
